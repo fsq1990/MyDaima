@@ -1,2 +1,2 @@
-print'Hello World'
-ptint'hello world'
+print（'Hello World')
+ptint('hello world')
